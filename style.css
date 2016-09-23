@@ -1,7 +1,7 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
-  background-color: #ccff99;
+  background-image: url(clouds.jpg);
   background-repeat: repeat;
 }
 #wrapper {
